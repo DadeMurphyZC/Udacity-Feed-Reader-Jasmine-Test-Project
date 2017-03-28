@@ -2,7 +2,7 @@ Udacity Project: Javascript TDD in Jasmine
 -------------------------
 This is my submission for the *Udacity Front-End Web Developer Nanodegree: **Feed Reader Testing Project***.
 
-You can view my finished project by following this link:
+You can view my finished project by following this link: <br>
 https://dademurphyzc.github.io/Udacity-Feed-Reader-Jasmine-Test-Project/
 
 Here is a description of the project objectives:
