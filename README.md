@@ -1,8 +1,9 @@
-Udacity Project: Javascript TDD in Jasmine
+# Udacity Project: Javascript TDD in Jasmine
 -------------------------
 This is my submission for the *Udacity Front-End Web Developer Nanodegree: **Feed Reader Testing Project***.
 
-You can view my finished project by following this link: <br>
+### To run a local copy of this project, please download the zip file and launch `index.html` in your browser of choice.
+You can also view a GitHub Pages hosted version of my finished project by following this link: <br>
 https://dademurphyzc.github.io/Udacity-Feed-Reader-Jasmine-Test-Project/
 
 Here is a description of the project objectives:
@@ -15,5 +16,5 @@ The required unit tests include:
 
  - Write a test that ensures the menu element is hidden by default.
  - Write a test that ensures the menu changes visibility when the menu icon is clicked. This test should have two expectations: does the menu display when clicked and does it hide when clicked again.
- - Write a test that ensures when the loadFeed function is called and completes its work, there is at least a single .entry element within the .feed container.
- - Write a test that ensures when a new feed is loaded by the loadFeed function that the content actually changes.
+ - Write a test that ensures when the `loadFeed` function is called and completes its work, there is at least a single `.entry` element within the `.feed` container.
+ - Write a test that ensures when a new feed is loaded by the `loadFeed` function that the content actually changes.
